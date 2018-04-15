@@ -1,4 +1,4 @@
-#!C:\Users\75916\PycharmProjects\machineLearning\venv\Scripts\python.exe
+#!C:\Users\75916\Documents\GitHub\MACHINE\machineLearning\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==28.8.0','console_scripts','easy_install-3.6'
 __requires__ = 'setuptools==28.8.0'
 import re
